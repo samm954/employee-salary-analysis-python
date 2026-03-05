@@ -7,3 +7,7 @@ Technologies Used:
 Python
 Pandas
 Matplotlib
+
+## Project Output
+
+![Salary Graph](salary_graph.png)
